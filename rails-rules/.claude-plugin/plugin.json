@@ -1,0 +1,5 @@
+{
+  "name": "rails-rules",
+  "description": "Rails development patterns including Page/Presenter, model structure, and linting",
+  "version": "1.0.0"
+}

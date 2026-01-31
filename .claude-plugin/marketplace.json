@@ -1,0 +1,18 @@
+{
+  "name": "zhumo-plugins",
+  "owner": {
+    "name": "zhumo"
+  },
+  "plugins": [
+    {
+      "name": "rails-rules",
+      "source": "./rails-rules",
+      "description": "Rails development patterns including Page/Presenter, model structure, and linting"
+    },
+    {
+      "name": "rspec-rules",
+      "source": "./rspec-rules",
+      "description": "RSpec testing standards with FactoryBot, Capybara, and unit testing best practices"
+    }
+  ]
+}

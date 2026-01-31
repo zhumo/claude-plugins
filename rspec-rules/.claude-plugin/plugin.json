@@ -1,0 +1,5 @@
+{
+  "name": "rspec-rules",
+  "description": "RSpec testing standards with FactoryBot, Capybara, and unit testing best practices",
+  "version": "1.0.0"
+}
