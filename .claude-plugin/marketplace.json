@@ -18,6 +18,11 @@
       "name": "js-rules",
       "source": "./js-rules",
       "description": "Mo's preferred JS development patterns"
+    },
+    {
+      "name": "ipynb-rules",
+      "source": "./ipynb-rules",
+      "description": "Mo's preferred ipynb deveopment patterns"
     }
   ]
 }
