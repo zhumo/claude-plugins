@@ -7,12 +7,17 @@
     {
       "name": "rails-rules",
       "source": "./rails-rules",
-      "description": "Rails development patterns including Page/Presenter, model structure, and linting"
+      "description": "Mo's preferred Rails development patterns"
     },
     {
       "name": "rspec-rules",
       "source": "./rspec-rules",
-      "description": "RSpec testing standards with FactoryBot, Capybara, and unit testing best practices"
+      "description": "Mo's preferred RSpec testing standards"
+    },
+    {
+      "name": "js-rules",
+      "source": "./js-rules",
+      "description": "Mo's preferred JS development patterns"
     }
   ]
 }
